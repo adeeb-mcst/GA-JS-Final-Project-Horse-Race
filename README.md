@@ -2,6 +2,8 @@
 
 Horse Race is a simple Javascript Game which you compete agaist 3 CPU Oppentts and race with your horse to reach the finishing line. This project uses Vanilla JS and jQuery as well. CSS used to add some touches and effects to the game.
 
+You can try the game from [Here](https://adeeb-mcst.github.io/).
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
@@ -11,6 +13,8 @@ pip install foobar
 ```
 
 ## Usage
+
+https://adeeb-mcst.github.io/
 
 ```python
 import foobar
