@@ -1,33 +1,14 @@
 # Horse Race
 
-Horse Race is a simple Javascript Game which you compete agaist 3 CPU Oppentts and race with your horse to reach the finishing line. This project uses Vanilla JS and jQuery as well. CSS used to add some touches and effects to the game.
+Horse Race is a simple Javascript Game which you compete against 3 CPU Opponents and race with your horse to reach the finishing line. This project uses Vanilla JS and jQuery as well. CSS used to add some touches and effects to the game.
 
 You can try the game from [Here](https://adeeb-mcst.github.io/).
 
-## Installation
+## How to play
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-https://adeeb-mcst.github.io/
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+The horse run in steady speed automatically and you can add more speed by clicking on the "Power" Button.
+When the race finished, each horse will get its rank and the horse picture will change to its rank.
+You can play again by clicking on the "Restart" Button.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
